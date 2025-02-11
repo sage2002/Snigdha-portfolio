@@ -58,19 +58,19 @@ export const content = {
     },
   ],
   hero: {
-    title: "Web Developer",
-    firstName: "SNIGDHA",
-    LastName: "KUNDU",
+    title: "UI/UX & FrontEnd Dev",
+    firstName: "Snigdha",
+    LastName: "Kundu",
     btnText: "Hire Me",
     image: Hero_person,
     hero_content: [
       {
-        count: "8+",
-        text: "Years of Experinse in Web development",
+        count: "2.5+",
+        text: "Years of Experience in UI/UX",
       },
       {
-        count: "20+",
-        text: "Projects Worked in my career",
+        count: "09+",
+        text: "Months of Experience in Frontend Dev",
       },
     ],
   },
